@@ -3,15 +3,15 @@
 <Technews>
 
 	<Technew>
-		<Title>MPGD-123</Title>
-		<Description>Ceci est un test</Description>
+		<Title>Coucou</Title>
+		<Description>C'est le test de Céline</Description>
 		<Path>https://1fichier.com/?qf2ft70lbe</Path>
 	</Technew>
 	
 	<Technew>
-		<Title>MPGD-456</Title>
-		<Description>Ceci est un test numéro 2</Description>
-		<Path>https://www.ssaurel.com/tmp/mymusic.mp3</Path>
+		<Title>Hello</Title>
+		<Description>World</Description>
+		<Path>https://1fichier.com/?qf2ft70lbe</Path>
 	</Technew>
 	
 </Technews>
