@@ -3,14 +3,20 @@
 <Technews>
 
 	<Technew>
-		<Title>Coucou</Title>
-		<Description>C'est le test de Céline</Description>
+		<Title>Tech'mail CSS-051</Title>
+		<Description>[Neotouch] Package Vues et tableaux suivi des courriers/Description>
 		<Path>https://1fichier.com/?qf2ft70lbe</Path>
 	</Technew>
 	
 	<Technew>
-		<Title>Hello</Title>
-		<Description>World</Description>
+		<Title>Tech'mail MPGD-170</Title>
+		<Description>Codes erreurs IJ</Description>
+		<Path>https://1fichier.com/?qf2ft70lbe</Path>
+	</Technew>
+		
+	<Technew>
+		<Title>Tech'mail MPGD-169</Title>
+		<Description>Optimisation de la maintenance OMEGA (3)</Description>
 		<Path>https://1fichier.com/?qf2ft70lbe</Path>
 	</Technew>
 	
