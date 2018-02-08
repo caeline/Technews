@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <Technews>
-
+	<Technew>
+		<Title>Tech'mail MPGD-171</Title>
+		<Description>Lancement MAS Production 4.11.18</Description>
+		<Path>https://1fichier.com/?giysdy3g2z</Path>
+	</Technew>
+	
 	<Technew>
 		<Title>Tech'mail CSS-051</Title>
 		<Description>[Neotouch] Package Vues et tableaux suivi des courriers</Description>
@@ -14,10 +19,4 @@
 		<Path>https://1fichier.com/?qf2ft70lbe</Path>
 	</Technew>
 		
-	<Technew>
-		<Title>Tech'mail MPGD-169</Title>
-		<Description>Optimisation de la maintenance OMEGA (3)</Description>
-		<Path>https://1fichier.com/?qf2ft70lbe</Path>
-	</Technew>
-	
 </Technews>
